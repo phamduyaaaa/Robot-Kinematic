@@ -41,6 +41,6 @@ Mô hình robot hai bánh độc lập điều khiển bằng tốc độ tuyế
 
 ```bash
 .
-├── unicycle_simulation.ipynb       # Mô phỏng robot unicycle
-├── differential_drive_sim.ipynb    # Mô phỏng robot visai
+├── Unicycle.ipynb       # Mô phỏng robot unicycle
+├── Visai.ipynb    # Mô phỏng robot visai
 ├── README.md
